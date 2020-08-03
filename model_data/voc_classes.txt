@@ -1,0 +1,5 @@
+cyclist
+truck
+car
+cat
+dog
